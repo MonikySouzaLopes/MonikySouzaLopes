@@ -27,8 +27,6 @@ mostrar_produtos_destaque(){
            <div class= "descricao"> Descrição ${this.descricao}</div>
            <div class= "descricao"> R$${this.preco},00</div>
            `
-         
-
 }
 
 }
