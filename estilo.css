@@ -1,3 +1,14 @@
 body {
-    background: #CCC;
+    background: #ffffff;
+  }
+
+  h1, h2{
+    text-align: center;
+    font-family: "Garamond", "Helvetica Neue", Helvetica;
+    background: #2348ab;
+    color: #ffffff;
+  }
+
+  .descricao {
+    text-align: center;
   }
