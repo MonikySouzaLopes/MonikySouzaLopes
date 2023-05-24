@@ -1,15 +1,21 @@
 body {
-    background: #ffffff;
+  background-image: linear-gradient(to right, #ffdffc, #ffaefb);
   }
 
   h1, h2{
     text-align: center;
     font-family: "Garamond", "Helvetica Neue", Helvetica;
-    background: #2348ab;
+    background: #9b0f88;
     color: #ffffff;
   }
 
   .descricao {
     text-align: center;
     
+  }
+
+  .flex-container {
+    
+    flex-direction: row;
+    align-items: center;
   }
