@@ -71,7 +71,6 @@ else {
 }
 }
 
- 
 const produtoDestaque = new ProdutoDestaque("Modelador de cachos","10/08/2022","Modelador de Cachos Mondial, Spiral Infinity, Bivolt, Preto/Vermelho - EM-05",250,"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2NHE97lNTWvaTCY1U_kCa82Y438PLU_e1jg&usqp=CAU")
 console.log(produtoDestaque.mostrarAtributosDestaque())
 
